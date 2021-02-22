@@ -1,3 +1,3 @@
 
 build:
-	@ cp src/index.html ./
+	@ simple src/index.html -o index.html
